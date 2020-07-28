@@ -11,7 +11,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🎵 MUSICIAN TURNED SOFTWARE ENGINEER 💻
+🎵 MUSICIAN TURNED SOFTWARE ENGINEER 💻</br>
+
 From a young age, I enjoyed singing, playing piano, and using technology to create interesting sounds with MIDI. While studying and creating music compositions in undergrad, there were numerous times I would look at a completed score and say "it's not done." I kept going deeper to find the details that contribute to the theme I was looking for in my pieces.
 
 Having transitioned to code, the same mindset of finessing and perfecting doesn't stop. "Just because the code produces the right answer, it doesn't mean that it is optimal or efficient."
