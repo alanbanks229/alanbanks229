@@ -3,11 +3,11 @@ Hi I'm Alan! I enjoy singing, playing piano and learning more about full stack d
 
 - 🔭 I’m currently working on: <b>Job Search</b>
 - 🌱 I’m currently learning: <b>Data Structures</b>
-- 📫 How to reach me: ... <b>alanbanks229@gmail.com</b>
+- 📫 How to reach me: <b>alanbanks229@gmail.com</b>
 - 😄 Pronouns: <b>He/Him/His</b>
 - ⚡ Fun fact: <b>I am a leap year baby</b> :)
 
-Check out my projects & blogs to see what I have been up to lately! :)
+Check out my blogs to see what I have been up to lately! :)
 
 <!--
 **alanbanks229/alanbanks229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
