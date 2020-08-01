@@ -7,7 +7,7 @@ Hi I'm Alan! I enjoy singing, playing piano and learning more about full stack d
 - 😄 Pronouns: <b>He/Him/His</b>
 - ⚡ Fun fact: <b>I am a leap year baby</b> :)
 
-Check out my blogs to see what I have been up to lately! :)
+Check out my <a rel="noopener noreferrer" target="_blank" href="https://medium.com/@alanbanks229">blogs</a> to see what I have been up to lately! :)
 
 <!--
 **alanbanks229/alanbanks229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
