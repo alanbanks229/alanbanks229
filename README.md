@@ -1,9 +1,7 @@
 ### 🎵 MUSICIAN TURNED SOFTWARE ENGINEER 💻</br>
 Hi I'm Alan! I enjoy singing, playing piano and learning more about full stack development daily!
 
-- 🔭 I’m currently working on: <b>Job Search</b>
-- 🌱 I’m currently learning: <b>Data Structures</b>
-- 📫 How to reach me: <b>alanbanks229@gmail.com</b>
+- 🔭 I’m currently working at: <b>Global Impact</b>
 - 😄 Pronouns: <b>He/Him/His</b>
 - ⚡ Fun fact: <b>I am a leap year baby</b> :)
 
