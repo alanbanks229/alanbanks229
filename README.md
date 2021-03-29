@@ -1,7 +1,6 @@
 ### 🎵 MUSICIAN TURNED SOFTWARE ENGINEER 💻</br>
 Hi I'm Alan! I enjoy singing, playing piano and learning more about full stack development daily!
 
-- 🔭 I’m currently working at: <b>Global Impact</b>
 - 😄 Pronouns: <b>He/Him/His</b>
 - ⚡ Fun fact: <b>I am a leap year baby</b> :)
 
